@@ -1,0 +1,20 @@
+<%pageContext.forward("/home.jsp");%>
+
+header-------------
+
+<div id="header">
+	
+<p><h1 align="center">Course Management System</h1></p>
+	<p>
+	<a href="#">HOME |</a>
+	<a href="#">SERVICES |</a>
+	<a href="#">ABOUT US |</a>
+	<a href="#">CONTACT</a>
+	</p>
+</div>
+
+footer----
+
+<div id="footer" >
+	<p>&copy; -2018 [created by shyam patidar]</p>
+</div>
